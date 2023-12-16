@@ -1,0 +1,699 @@
+fileFormatVersion: 2
+guid: cfd8ebcd86cb13d47bed16430fc56e64
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7872230972713159210
+    second: Custom Edited - Minecraft Customs - Steve 1_0
+  - first:
+      213: 8708436750318039612
+    second: Custom Edited - Minecraft Customs - Steve 1_1
+  - first:
+      213: 3933398701474977425
+    second: Custom Edited - Minecraft Customs - Steve 1_2
+  - first:
+      213: -4280050001180732230
+    second: Custom Edited - Minecraft Customs - Steve 1_3
+  - first:
+      213: 6876687010298920021
+    second: Custom Edited - Minecraft Customs - Steve 1_4
+  - first:
+      213: -3789995072014925590
+    second: Custom Edited - Minecraft Customs - Steve 1_5
+  - first:
+      213: 931540142680261756
+    second: Custom Edited - Minecraft Customs - Steve 1_6
+  - first:
+      213: -2242584691403935706
+    second: Custom Edited - Minecraft Customs - Steve 1_7
+  - first:
+      213: -6959486750909622026
+    second: Custom Edited - Minecraft Customs - Steve 1_8
+  - first:
+      213: -273388991241783738
+    second: Custom Edited - Minecraft Customs - Steve 1_9
+  - first:
+      213: -889606553525884961
+    second: Custom Edited - Minecraft Customs - Steve 1_10
+  - first:
+      213: -6708735997031435505
+    second: Custom Edited - Minecraft Customs - Steve 1_11
+  - first:
+      213: 938714099416082074
+    second: Custom Edited - Minecraft Customs - Steve 1_12
+  - first:
+      213: 6652086276195763745
+    second: Custom Edited - Minecraft Customs - Steve 1_13
+  - first:
+      213: -6712022470467090642
+    second: Custom Edited - Minecraft Customs - Steve 1_14
+  - first:
+      213: 3921203902253049766
+    second: Custom Edited - Minecraft Customs - Steve 1_15
+  - first:
+      213: -7538022512713033673
+    second: Custom Edited - Minecraft Customs - Steve 1_16
+  - first:
+      213: -6879540508636505661
+    second: Custom Edited - Minecraft Customs - Steve 1_17
+  - first:
+      213: -9061543390669101606
+    second: Custom Edited - Minecraft Customs - Steve 1_18
+  - first:
+      213: 1077797057752924287
+    second: Custom Edited - Minecraft Customs - Steve 1_19
+  - first:
+      213: -2380716222210322965
+    second: Custom Edited - Minecraft Customs - Steve 1_20
+  - first:
+      213: 8412931965469725536
+    second: Custom Edited - Minecraft Customs - Steve 1_21
+  - first:
+      213: 2933589111721694395
+    second: Custom Edited - Minecraft Customs - Steve 1_22
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 69
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Minecraft Customs - Steve 1_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1751
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a456e5c58cf3d60800000000000000
+      internalID: 7872230972713159210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Minecraft Customs - Steve 1_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1481
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32f9abc5159ad870800000000000000
+      internalID: 8708436750318039612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Minecraft Customs - Steve 1_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1481
+        width: 75
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1961669674d369630800000000000000
+      internalID: 3933398701474977425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Minecraft Customs - Steve 1_3
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1481
+        width: 75
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab456ba53353a94c0800000000000000
+      internalID: -4280050001180732230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Minecraft Customs - Steve 1_4
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1481
+        width: 76
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cf860d666ee6f50800000000000000
+      internalID: 6876687010298920021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Minecraft Customs - Steve 1_5
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1216
+        width: 104
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0c110ff8b376bc0800000000000000
+      internalID: -3789995072014925590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Minecraft Customs - Steve 1_6
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1216
+        width: 92
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74497203de7dec00800000000000000
+      internalID: 931540142680261756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Minecraft Customs - Steve 1_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 940
+        width: 104
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620b32ada1db0e0e0800000000000000
+      internalID: -2242584691403935706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Minecraft Customs - Steve 1_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 940
+        width: 109
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f89ef84cafea6f90800000000000000
+      internalID: -6959486750909622026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Minecraft Customs - Steve 1_9
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 940
+        width: 109
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646f783392ab43cf0800000000000000
+      internalID: -273388991241783738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Minecraft Customs - Steve 1_10
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 940
+        width: 109
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7ea3b8d8b77a3f0800000000000000
+      internalID: -889606553525884961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Minecraft Customs - Steve 1_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 940
+        width: 115
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03b015b728c5e2a0800000000000000
+      internalID: -6708735997031435505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Minecraft Customs - Steve 1_12
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 940
+        width: 114
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96a859ff7bf60d00800000000000000
+      internalID: 938714099416082074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Minecraft Customs - Steve 1_13
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 940
+        width: 114
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12646e35935f05c50800000000000000
+      internalID: 6652086276195763745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Minecraft Customs - Steve 1_14
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 940
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e278e5bff1b1ad2a0800000000000000
+      internalID: -6712022470467090642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Minecraft Customs - Steve 1_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 669
+        width: 70
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a72ba57c2aea6630800000000000000
+      internalID: 3921203902253049766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Minecraft Customs - Steve 1_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 399
+        width: 104
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73897dc7670936790800000000000000
+      internalID: -7538022512713033673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Minecraft Customs - Steve 1_17
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 129
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c99fc45b56f680a0800000000000000
+      internalID: -6879540508636505661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Minecraft Customs - Steve 1_18
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 129
+        width: 76
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5216adb4eee3280800000000000000
+      internalID: -9061543390669101606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Minecraft Customs - Steve 1_19
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 129
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70035fa6ba15fe00800000000000000
+      internalID: 1077797057752924287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Minecraft Customs - Steve 1_20
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 129
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedc420a53ff5fed0800000000000000
+      internalID: -2380716222210322965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Minecraft Customs - Steve 1_21
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 129
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0631a598c0db0c470800000000000000
+      internalID: 8412931965469725536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Minecraft Customs - Steve 1_22
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 129
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4102911c336b820800000000000000
+      internalID: 2933589111721694395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Custom Edited - Minecraft Customs - Steve 1_0: 7872230972713159210
+      Custom Edited - Minecraft Customs - Steve 1_1: 8708436750318039612
+      Custom Edited - Minecraft Customs - Steve 1_10: -889606553525884961
+      Custom Edited - Minecraft Customs - Steve 1_11: -6708735997031435505
+      Custom Edited - Minecraft Customs - Steve 1_12: 938714099416082074
+      Custom Edited - Minecraft Customs - Steve 1_13: 6652086276195763745
+      Custom Edited - Minecraft Customs - Steve 1_14: -6712022470467090642
+      Custom Edited - Minecraft Customs - Steve 1_15: 3921203902253049766
+      Custom Edited - Minecraft Customs - Steve 1_16: -7538022512713033673
+      Custom Edited - Minecraft Customs - Steve 1_17: -6879540508636505661
+      Custom Edited - Minecraft Customs - Steve 1_18: -9061543390669101606
+      Custom Edited - Minecraft Customs - Steve 1_19: 1077797057752924287
+      Custom Edited - Minecraft Customs - Steve 1_2: 3933398701474977425
+      Custom Edited - Minecraft Customs - Steve 1_20: -2380716222210322965
+      Custom Edited - Minecraft Customs - Steve 1_21: 8412931965469725536
+      Custom Edited - Minecraft Customs - Steve 1_22: 2933589111721694395
+      Custom Edited - Minecraft Customs - Steve 1_3: -4280050001180732230
+      Custom Edited - Minecraft Customs - Steve 1_4: 6876687010298920021
+      Custom Edited - Minecraft Customs - Steve 1_5: -3789995072014925590
+      Custom Edited - Minecraft Customs - Steve 1_6: 931540142680261756
+      Custom Edited - Minecraft Customs - Steve 1_7: -2242584691403935706
+      Custom Edited - Minecraft Customs - Steve 1_8: -6959486750909622026
+      Custom Edited - Minecraft Customs - Steve 1_9: -273388991241783738
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
